@@ -1,1 +1,62 @@
 /*  your css code here. If applicable */
+body {
+  background-color: rgb(204, 204, 204);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+}
+li{
+    text-align: left;
+}
+
+.first {
+  background-color: white;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 450px;
+  margin: 0 auto; 
+  text-align: center;
+}
+
+.second {
+  background-color: white;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 450px;
+  margin: 20px auto; 
+  text-align: center;
+}
+
+video {
+  display: block;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+audio {
+  width: 100%;
+  border-radius: 5px;
+}
+
+a {
+  color: black;
+}
+p{
+	text-align:left;
+}
+
